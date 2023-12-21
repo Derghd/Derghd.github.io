@@ -52,6 +52,7 @@
   body.img-3-wrap .cursor2,.cursor3{
 	background-image: url('imgs/work4.png');
 	background-size: cover;
+	background-position: center;
   }
   body.logo-wrap .cursor2,.cursor3{
 	background-image: none;
