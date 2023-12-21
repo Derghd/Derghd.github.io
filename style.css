@@ -46,15 +46,11 @@
 	background-size: cover;
   }
   body.img-2-wrap .cursor2,.cursor3{
-	background-image: url('imgs/Image29.jpg');
+	background-image: url('imgs/work2.jpg');
 	background-size: cover;
   }
   body.img-3-wrap .cursor2,.cursor3{
-	background-image: url('imgs/5_MuhammadNorAimanBinSalamat_A2_Slides_page-0001.jpg');
-	background-size: cover;
-  }
-  body.img-4-wrap .cursor2,.cursor3{
-	background-image: url('https://assets.codepen.io/1462889/sl4.jpg');
+	background-image: url('imgs/work4.png');
 	background-size: cover;
   }
   body.logo-wrap .cursor2,.cursor3{
